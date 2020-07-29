@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**viniciuslucena/viniciuslucena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vinícius Lucena and i'm student at UFAPE. I'm born in Caruaru, Brazil(🇧🇷) and i'm studying Front-End since 2019.<br>
+In my free time i like<br><br>
+🎮 to play video-games,<br>
+🎞️ to watch movies and series,<br>
+📚 to read books,<br>
+🎵 and to listen to music<br>
 
-Here are some ideas to get you started:
+### Find me elsewhere 🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 [Site](http://viniciuslucena.github.io) <br>
+🐦 [Twitter](https://twitter.com/viniiciuslucena) <br>
+📸 [Instagram](https://instagram.com/viniciuslucena) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/viniciuslucena) <br>
