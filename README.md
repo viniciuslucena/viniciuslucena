@@ -13,3 +13,5 @@ In my free time i like<br>
 🐦 [Twitter](https://twitter.com/viniiciuslucena) <br>
 📸 [Instagram](https://instagram.com/viniciuslucena) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/viniciuslucena) <br>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=viniciuslucena)]
