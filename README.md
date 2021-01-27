@@ -2,10 +2,10 @@
 
 <p>My name is Vinícius Lucena and i'm student at UFAPE. I'm born in Caruaru, Brazil (🇧🇷) and i'm studying Front-End since 2019.<br>
 In my free time i like</p>
-- 🎮 &nbsp; to play video-games,<br>
-- 🎞️ &nbsp; to watch movies and series,<br>
-- 📚 &nbsp; to read books,<br>
-- 🎵 &nbsp; and to listen to music<br>
+- 🎮 &nbsp; To play video-games,<br>
+- 🎞️ &nbsp; To watch movies and series,<br>
+- 📚 &nbsp; To read books,<br>
+- 🎵 &nbsp; And to listen to music<br>
 
 <h3>Find me elsewhere 🌎</h3>
 
