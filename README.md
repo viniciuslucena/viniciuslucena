@@ -14,4 +14,8 @@ In my free time i like<br>
 📸 [Instagram](https://instagram.com/viniciuslucena) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/viniciuslucena) <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=viniciuslucena&count_private=true&show_icons=true)
+<a href="https://github.com/viniciuslucena">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciuslucena&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslucena&theme=dracula&layout=compact" />
+</a>
+
