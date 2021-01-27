@@ -15,7 +15,7 @@ In my free time i like
 - 💼 &nbsp; [LinkedIn](https://www.linkedin.com/in/viniciuslucena)
 
 <a href="https://github.com/viniciuslucena">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciuslucena&theme=dracula&show_icons=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslucena&theme=dracula&layout=compact" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=viniciuslucena&theme=dracula&show_icons=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslucena&theme=dracula&layout=compact" />
 </a>
 
