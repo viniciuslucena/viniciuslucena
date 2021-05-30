@@ -1,4 +1,4 @@
-<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="400px" max-width="400px" width="400px" height="300px" align="right" alt="Programmer">
+<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="300px" max-width="300px" width="300px" height="300px" align="right" alt="Programmer">
 
 ```javascript
 function myResume(){
