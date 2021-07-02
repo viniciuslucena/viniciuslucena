@@ -6,12 +6,12 @@ function myResume(){
   const contact = 'jviniiciuslucena@gmail.com';
   const phone = '+55 81 97113-3619';
   
-  let skills = [
+  let skills = [{
     JavaScript: '1-2 years',
     HTML5: '1-2 years',
     CSS3: '1-2 years',
     React: 'Coming soon...'
-  ];
+  }];
   
   let education = [
     {
