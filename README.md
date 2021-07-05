@@ -7,9 +7,9 @@ function myResume(){
   const phone = '+55 81 97113-3619';
   
   let skills = [{
-    JavaScript: '1-2 years',
-    HTML5: '1-2 years',
-    CSS3: '1-2 years',
+    JavaScript: '1 year',
+    HTML5: '1 year',
+    CSS3: '1 year',
     React: 'Coming soon...'
   }];
   
