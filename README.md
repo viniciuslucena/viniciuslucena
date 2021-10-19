@@ -11,7 +11,7 @@ function myResume(){
     HTML5: 'less than 1 year',
     CSS3: 'less than 1 year',
     Laravel: 'less then 3 months',
-    React: 'Coming soon...'
+    React: 'less then 3 months'
   }];
   
   let education = [
