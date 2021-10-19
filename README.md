@@ -12,14 +12,12 @@ function myResume(){
     CSS3: 'less than 1 year',
     Laravel: 'less then 3 months',
     React: 'less then 3 months'
-  }];
+   }];
   
-  let education = [
-    {
-      course: 'Bachelor of Computer Science',
-      instituition: 'Universidade Federal do Agreste de Pernambuco'
-    }
-  ];
+  let education = [{
+    course: 'Bachelor of Computer Science',
+    instituition: 'Universidade Federal do Agreste de Pernambuco'
+  }];
 }
 ```
 
