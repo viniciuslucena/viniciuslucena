@@ -10,8 +10,8 @@ function myResume(){
     JavaScript: 'less than 1 year',
     HTML5: 'less than 1 year',
     CSS3: 'less than 1 year',
-    Laravel: 'less then 3 months',
-    ReactJS: 'less then 3 months'
+    Laravel: 'less then 6 months',
+    ReactJS: 'less then 6 months'
    }];
   
   let education = [{
