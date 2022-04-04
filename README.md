@@ -1,33 +1,39 @@
-<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="300px" max-width="300px" width="300px" height="300px" align="right" alt="Programmer">
+<div>
+    <a target='__blank' href="https://instagram.com/viniciuslucena">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target='__blank' href="https://linkedin.com/in/viniciuslucena">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a target='__blank' href="https://dev.to/viniciuslucena">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+    </a>
+</div>
 
-```javascript
-function myResume(){
-  const name = 'Vinícius Lucena';
-  const contact = 'jviniiciuslucena@gmail.com';
-  const phone = '+55 81 97113-3619';
-  
-  let skills = [{
-    JavaScript: 'less than 1 year',
-    HTML5: 'less than 1 year',
-    CSS3: 'less than 1 year',
-    Laravel: 'less then 6 months',
-    ReactJS: 'less then 6 months'
-   }];
-  
-  let education = [{
-    course: 'Bachelor of Computer Science',
-    instituition: 'Universidade Federal do Agreste de Pernambuco'
-  }];
-}
-```
+## Hello there
 
-<p align="left">
-  <a href="mailto:jviniiciuslucena@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jviniiciuslucena@gmail.com" height="25px"/></a>
+I don't really know how u got here, but I will try to show a little bit about myself for you.
 
-  <a href="https://www.linkedin.com/in/viniciuslucena/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciuslucena/" height="25px"/></a>
+## Public information
 
-  <a href="https://api.whatsapp.com/send?phone=5581971133619" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581971133619" height="25px"/></a>
-</p>  
+Hi, my name is Vinícius Lucena. I currently live in Caruaru, Brazil and i'm a front end developer. 
+
+I am a student of the Bachelor's Degree in Computer Science at UFAPE and I have been working as a developer since 2021.
+
+I currently work as a front-end developer at Innvo Digital, a consultancy that provides services to several companies, including C&A, which is where I work daily.
+
+## Detailed information
+
+* **Name**: Vinícius Lucena
+* **Age**: 26
+* **Living in**: Caruaru - PE, Brazil
+* **Stack**: ReactJS, React Native, NodeJS
+* **University**: Studying Computer Science at UFAPE
+<!-- 
+## Curiosities about me
+
+* I did 10 years of music classes playing classical guitar and singing in a choir which was  reference in the São Paulo state at that time. My final presentation on this road was at the "Sala São Paulo", which is the biggest and greatest theather in Brazil;
+* I started with coding using **Pawn Lang**, switching lines and doing the "try/error" approach on a GTA San Andreas gamemode only to see if something changes in game;
+* I had a "sensei" which teach a lot about programming and he made a huge progress with this knowlegment. Today I just made the same he did for me on the past at the He4rt Developers;
+* I already had 2 private MapleStory servers (Java), 3 GTA SA:MP  private servers (Pawn) and 1 Minecraft Server (Java);
+* I really like to help people. -->
