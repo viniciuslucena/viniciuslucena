@@ -24,7 +24,7 @@ I currently work as a front-end developer at Innvo Digital, a consultancy that p
 
 ## Career
 
-[Dec 2021 - Present] - Frontend developer at Innvo Digital
+[Dec 2021 - Present] - Frontend developer at Innvo Digital<br>
 [Jul 2021 - Dec 2021] - Fullstack developer at Softmakers
 
 ## Detailed information
