@@ -22,6 +22,11 @@ I am a student of the Bachelor's Degree in Computer Science at UFAPE and I have 
 
 I currently work as a front-end developer at Innvo Digital, a consultancy that provides services to several companies, including C&A, which is where I work daily.
 
+## Career
+
+[Dec 2021 - Present] - Frontend developer at Innvo Digital
+[Jul 2021 - Dec 2021] - Fullstack developer at Softmakers
+
 ## Detailed information
 
 * **Name**: Vinícius Lucena
