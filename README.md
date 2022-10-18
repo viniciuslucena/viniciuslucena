@@ -20,7 +20,9 @@ Hi, my name is Vinícius Lucena. I currently live in Caruaru, Brazil and i'm a f
 
 I am a student of the Bachelor's Degree in Computer Science at UFAPE and I have been working as a developer since 2021.
 
+<!---
 I currently work as a front-end developer at Innvo Digital, a consultancy that provides services to several companies, including C&A, which is where I work daily.
+-->
 
 ## Career
 
