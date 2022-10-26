@@ -35,7 +35,7 @@ I currently work as a front-end developer at Innvo Digital, a consultancy that p
 * **Name**: Vinícius Lucena
 * **Age**: 27
 * **Living in**: Caruaru - PE, Brazil
-* **Stack**: ReactJS, React Native, NodeJS, Laravel
+* **Stack**: ReactJS, Vue, React Native, NodeJS, Laravel
 * **University**: Studying Computer Science at UFAPE
 <!-- 
 ## Curiosities about me
