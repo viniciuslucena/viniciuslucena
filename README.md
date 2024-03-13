@@ -36,7 +36,6 @@ I currently work as a front-end developer at Innvo Digital, a consultancy that p
 * **Age**: 27
 * **Living in**: Caruaru - PE, Brazil
 * **Stack**: ReactJS, Vue, React Native, NodeJS, Laravel
-* **University**: Studying Computer Science at UFAPE
 <!-- 
 ## Curiosities about me
 
