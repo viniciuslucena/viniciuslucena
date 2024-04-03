@@ -26,14 +26,14 @@ I currently work as a front-end developer at Innvo Digital, a consultancy that p
 
 ## Career
 
-[Oct 2022 - Currently] - Frontend developer at Kunumi<br>
+[Oct 2022 - Currently] - Fullstack developer at Kunumi<br>
 [Dec 2021 - Oct 2022] - Frontend developer at Innvo Digital<br>
 [Jul 2021 - Dec 2021] - Fullstack developer at Softmakers
 
 ## Detailed information
 
 * **Name**: Vinícius Lucena
-* **Age**: 27
+* **Age**: 28
 * **Living in**: Caruaru - PE, Brazil
 * **Stack**: ReactJS, Vue, React Native, NodeJS, Laravel
 <!-- 
