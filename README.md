@@ -18,7 +18,7 @@ I don't really know how u got here, but I will try to show a little bit about my
 
 Hi, my name is Vinícius Lucena. I currently live in Caruaru, Brazil and i'm a front end developer. 
 
-I am a student of the Bachelor's Degree in Computer Science at UFAPE and I have been working as a developer since 2021.
+I am a student of System Analysis at DeVry and I have been working as a developer since 2021.
 
 <!---
 I currently work as a front-end developer at Innvo Digital, a consultancy that provides services to several companies, including C&A, which is where I work daily.
